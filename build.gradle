@@ -7,8 +7,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:2.2.2'
 		//shiming	git commit
-		//shiming	git commit
-		//shiming	git diff
+		//shiming	git commit -a tianjia
 
 
         // NOTE: Do not place your application dependencies here; they belong
